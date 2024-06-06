@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Woo Categories Menu
+Plugin Name: Product Categories Menu
 Description: Create a WordPress menu with the WooCommerce product categories.
 Version: 1.0
 Author: Amit Elharar
