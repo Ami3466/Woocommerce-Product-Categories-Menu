@@ -1,3 +1,5 @@
+##Woocommerce-Product-Categories-Menu
+
 ## Description
 If you have many Product categories on Woocommerce and you want to add them into the menu in the same hirarchy, 
 this plugin will pull all the woocommerce categories into a menu named "woo Categories Menu" 
@@ -11,3 +13,4 @@ this plugin will pull all the woocommerce categories into a menu named "woo Cate
 
 1. Go to the 'Product Categories Menu' settings page.
 2. Enable or disable the menu as needed.
+
