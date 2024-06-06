@@ -1,4 +1,4 @@
-##Woocommerce-Product-Categories-Menu
+## Plugin Name: Woocommerce-Product-Categories-Menu
 
 ## Description
 If you have many Product categories on Woocommerce and you want to add them into the menu in the same hirarchy, 
