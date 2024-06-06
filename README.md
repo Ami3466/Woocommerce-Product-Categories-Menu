@@ -1,4 +1,4 @@
-## Plugin Name: Product-Categories-Menu
+## Product-Categories-Menu
 Contributors: Amit Elharar
 Tags: WooCommerce, Menu, Categories
 Requires at least: 4.7
