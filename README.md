@@ -9,5 +9,5 @@ this plugin will pull all the woocommerce categories into a menu named "woo Cate
 
 ## Settings
 
-1. Go to the 'WooCategories Menu' settings page.
+1. Go to the 'Product Categories Menu' settings page.
 2. Enable or disable the menu as needed.
