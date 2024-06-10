@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 the plugin add a new menu based on the product ccategories.
 
 ## About the plugin
-If you have many Product categories on Woocommerce and you want to add them into the menu in the same hirarchy, 
+If you have many Product categories on Woocommerce and you want to add them into the menu in the same hierarchy, 
 this plugin will pull all the woocommerce categories into a menu named "woo Categories Menu".
 
 ## Installation
